@@ -1,0 +1,40 @@
+{
+  "name": "yuncms/yuncms-ueditor-widget",
+  "description": "The ueditor widget for yuncms.",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "keywords": [
+    "UEditor",
+    "yii2"
+  ],
+  "authors": [
+    {
+      "name": "XuTL",
+      "email": "xutl@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "yuncms\\ueditor\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.0-dev"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  ]
+}
