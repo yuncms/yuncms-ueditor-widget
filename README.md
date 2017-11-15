@@ -2,6 +2,12 @@
 
 适用于 YUNCMS 的百度 UEditor
 
+[![Latest Stable Version](https://poser.pugx.org/yuncms/yuncms-ueditor-widget/v/stable.png)](https://packagist.org/packages/yuncms/yuncms-ueditor-widget)
+[![Total Downloads](https://poser.pugx.org/yuncms/yuncms-ueditor-widget/downloads.png)](https://packagist.org/packages/yuncms/yuncms-ueditor-widget)
+[![Build Status](https://img.shields.io/travis/yuncms/yuncms-ueditor-widget.svg)](http://travis-ci.org/yuncms/yuncms-ueditor-widget)
+[![License](https://poser.pugx.org/yuncms/yuncms-ueditor-widget/license.svg)](https://packagist.org/packages/yuncms/yuncms-ueditor-widget)
+
+
 ## Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
